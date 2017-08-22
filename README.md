@@ -28,7 +28,3 @@ But, if I did invent it, I hereby put it to public domain as of
 2014-05-06 (the actual date of invention in ISO8601 format). That
 should make any patent claims for it invalid.  Don't laugh, I've seen
 software patents that are much more silly.
-
-### I'm not that old
-
-No, I was not 41 when I invented it. :)
